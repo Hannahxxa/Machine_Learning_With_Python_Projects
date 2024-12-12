@@ -84,15 +84,6 @@ The goal of this project is to predict quantitative bitterness thresholds of dru
 - 🧠 Explore alternative machine learning algorithms such as Neural Networks and Random Forest.
 - 🤝 Integrate bitterness prediction models into pharmaceutical formulation workflows.
 
----
-
-## 📖 **Citation**
-
-If you use this code or find it helpful, please cite the associated research paper:
-
-```
-[Author Name], "Predicting the Bitterness of Drug Compounds Using Machine Learning," [Journal Name], [Year].
-```
 
 ---
 
@@ -100,7 +91,5 @@ If you use this code or find it helpful, please cite the associated research pap
 
 Special thanks to Dr. David Shorthouse and Dr. Hend E. Abdelhakim at UCL School of Pharmacy for their supervision and guidance, and to all contributors to the datasets and methodologies used in this project.
 
----
 
-Feel free to submit issues or pull requests to improve this repository!
 
