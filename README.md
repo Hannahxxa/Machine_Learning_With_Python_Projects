@@ -13,3 +13,10 @@ This project explores predicting the bitterness of drug compounds using molecula
   - **SMR_VSA** (molar refractivity).
 
 This project emphasizes the power of machine learning in pharmaceutical research and demonstrates techniques for handling small datasets using synthetic data augmentation.
+
+### **2. FreeCodeCamp Machine Learning with Python Projects**
+
+This repository features machine learning projects from the FreeCodeCamp curriculum. Models such as Neural Networks, CNNs, KNNs, and Linear Regression were implemented using TensorFlow.
+
+Learn more: [FreeCodeCamp - Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/#machine-learning-with-python-projects)
+
