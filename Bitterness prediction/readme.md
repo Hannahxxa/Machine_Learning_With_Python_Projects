@@ -41,11 +41,13 @@ The goal of this project is to predict quantitative bitterness thresholds of dru
 ## 📊 **Results Summary**
 
 - **BitterDB Models:** XGBoost achieved the best R-squared score of 0.76 for predicting bitterness thresholds.
-![Model Performance Comparison - BitterDB](images/Model Performance Comparison - BitterDB.png)
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/b3941336-cfa2-4929-8de8-0c203bafc7b8" />
+
 - **E-tongue Models:** Performance on real data was limited due to small sample size. Synthetic data significantly improved model training and evaluation.
-![Model Performance Comparison - E-tongue and Synthetic Data](images/Model Performance Comparison - E-tongue and Synthetic Data.png)
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/f2ffcf81-0aa1-45b0-8243-dded5599c34f" />
+
 - **Feature Importance:** Key descriptors influencing bitterness include BCUT2D_LOGPHI (lipophilicity) and SMR_VSA (molar refractivity).
-![Feature Importance - BitterDB](images/Feature Importance - BitterDB.png)
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/d5ab7512-bd72-4eb7-a25c-9aee4afd48a4" />
 
 ---
 
